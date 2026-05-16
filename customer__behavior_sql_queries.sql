@@ -87,14 +87,7 @@ FROM customer
 GROUP BY age_group
 ORDER BY revenue_percentage DESC;
 
-select sum(purchase_amount) as total_revenue
-from customer ;
 
-select count(purchase_amount) as total_revenue
-from customer ;
-
-select avg(purchase_amount) as total_revenue
-from customer ;
 
 
 
