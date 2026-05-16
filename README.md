@@ -1,1 +1,1 @@
-nss
+Developed an interactive Customer Behavior Dashboard to analyze sales, revenue, and customer segments using key KPIs (3.9K customers, 233K revenue, ₹59.76 avg purchase). Identified key insights across product categories, age groups, payment methods, and seasonal trends to support data-driven marketing and business decisions.
